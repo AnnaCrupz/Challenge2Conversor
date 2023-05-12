@@ -5,7 +5,7 @@ Este Challenge fue propuesto por Alura Latam como parte del programa ONE. Su obj
 Ejercicio de programación en el lenguaje Java, con la herramienta Maven. Para la interfaz se utilizó Swing.
 
 ###### Descarga el ejecutable
-<a href=".">conversor.jar</a>
+<a href="https://github.com/AnnaCrupz/Challenge2Conversor/blob/main/ejecutable.jar">conversor.jar</a>
 
 ##### Descripción del proyecto
 Al iniciar la ejecución del programa aparece una ventana para seleccionar un conversior, por defecto iniciará el conversor de Divisas.
